@@ -1,0 +1,10 @@
+package net2;
+
+public class layer {
+
+	int layerID;
+	
+	layer prevLayer;
+	layer nextLayer;
+	
+}

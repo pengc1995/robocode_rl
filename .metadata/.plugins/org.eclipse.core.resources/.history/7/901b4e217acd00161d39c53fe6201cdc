@@ -1,0 +1,9 @@
+package net2;
+
+import java.util.ArrayList;
+
+public class mlplayer extends layer{
+	
+	ArrayList<neuron> net;
+
+}

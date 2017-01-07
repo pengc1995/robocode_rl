@@ -1,0 +1,7 @@
+package net2;
+
+public class nnet {
+
+	ArrayList<layer> net;
+	
+}
